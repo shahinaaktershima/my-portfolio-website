@@ -3,10 +3,10 @@ import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 const Myproject = () => {
     return (
-        <div className='max-h-[500px] my-10'>
+        <div className='md:h-[600px] lg:[400px] h-[650px] my-10 py-8'>
            <h2 className='text-center uppercase text-4xl font bold text-red-600'> My three pinned project details</h2>
  
-  <AwesomeSlider className='h-[400px] my-3'>
+  <AwesomeSlider className='h-full  my-10'>
     
     <div className="hero h-full  bg-base-200 md:px-16">
   <div className="hero-content flex-col lg:flex-row-reverse">

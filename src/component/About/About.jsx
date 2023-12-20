@@ -1,4 +1,4 @@
-import { FaCss3Alt, FaHtml5, FaReact } from "react-icons/fa";
+import { FaCss3Alt, FaDev, FaHtml5, FaLinkedin, FaReact } from "react-icons/fa";
 import { BiLogoTailwindCss } from "react-icons/bi";
 
 const About = () => {
@@ -6,7 +6,7 @@ const About = () => {
         <div>
            <div className="hero min-h-screen bg-base-200">
   <div className="hero-content flex-col lg:flex-col gap-10 justify-between">
-    <img src="src/assets/WhatsApp Image 2023-11-30 at 14.38.49_0c2d3860.jpg" className="max-w-sm rounded-3xl shadow-2xl" />
+    <img src="https://i.postimg.cc/T2jdccy9/Whats-App-Image-2023-11-30-at-14-38-49-0c2d3860.jpg" className="max-w-sm rounded-3xl shadow-2xl" />
     <div>
     <div>
         <h2 className="text-3xl font-bold">Introduction:</h2>
@@ -43,6 +43,26 @@ const About = () => {
                    
         </p>
     </div>
+    <div>
+        <h2 className="text-3xl font-bold"> Contact Info:</h2>
+      
+        <div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-4 my-3 gap-2">
+            <div className="px-5 py-8 shadow-md shadow-slate-500">
+           Facebook: <a className="text-red-600 font-bold" href="https://www.facebook.com/jonakijui.jui/">Shahina Akter Shima</a>
+            </div>
+            <div className="px-5 py-8  shadow-md shadow-slate-500">
+            Email:<a href="" className="text-red-600">shima421914@gmail.com</a>
+            </div>
+                     
+                     <div className="p-3  shadow-md shadow-slate-500">
+                        
+                        
+                         <a href="https://www.linkedin.com/in/shahina-akter-shima-5353052a3">LinkedIn<FaLinkedin className="text-3xl text-blue-500"></FaLinkedin></a></div>
+                     <div className="p-3  shadow-md shadow-slate-500"> <a href="https://dev.to/shahinaaktershima">Dev.to<FaDev className="text-3xl text-blue-500"></FaDev></a></div>
+                  </div>
+        </div>
+       
+   
     </div>
   </div>
 </div>

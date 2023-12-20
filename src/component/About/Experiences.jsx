@@ -3,7 +3,7 @@
 const Experiences = () => {
     return (
         <div className='max-h-[500px] my-10'>
-        <h2 className='text-center my-10  text-3xl font bold text-red-600'> I have created many projects. All of these I choose these three projects to explain my experiences when created this project</h2>
+        <h2 className='text-center my-10  text-3xl font-bold text-blue-700'> I have created many projects. All of these I choose these three projects to explain my experiences when created this project</h2>
         <div className='block'>
         <div className="card  bg-base-100 shadow-xl my-5 p-10">
   <figure><img src="https://i.postimg.cc/QNJcSdR3/image.png" className="max-w-sm rounded-lg shadow-2xl" /></figure>

@@ -5,7 +5,7 @@ const Banner = () => {
     return (
         <div className="hero min-h-screen bg-base-200">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <img src="src/assets/WhatsApp Image 2023-11-30 at 14.38.49_0c2d3860.jpg" className="max-w-sm rounded-3xl shadow-2xl" />
+          <img src="https://i.postimg.cc/T2jdccy9/Whats-App-Image-2023-11-30-at-14-38-49-0c2d3860.jpg" className="max-w-sm rounded-3xl shadow-2xl" />
           <div>
             <h1 className="text-5xl font-bold">Welcome TO My Portfolio</h1>
             <p className="py-6 text-3xl font-bold ">Hello!!I am <span className="text-red-600">Shahina Akter Shima</span></p>
