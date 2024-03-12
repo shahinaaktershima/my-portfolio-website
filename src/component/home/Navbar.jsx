@@ -1,10 +1,11 @@
 import { NavLink } from "react-router-dom";
+import resume from '../../assets/Resume (24).pdf'
 
 
 const Navbar = () => {
   const downloadPDF=()=>{
   const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1lnTXb5IqgjWDLWwkFP60uzuKvPwiHHwP/view?usp=sharing'; // Replace with your file path
+    link.href = resume; // Replace with your file path
     link.download = 'resume.pdf'; // Replace with your desired filename
     document.body.appendChild(link);
     link.click();
@@ -14,7 +15,7 @@ const Navbar = () => {
     const navlinks=<>
     <li><NavLink to='/'>Home</NavLink></li>
     <li><NavLink to='/about'>About me</NavLink></li>
-    <li> <button onClick={downloadPDF}>download</button></li>
+    <li> <button onClick={downloadPDF}>resume</button></li>
     <li><NavLink to='/experience'>experinces</NavLink></li>
     <li><NavLink to='/contact'>contact</NavLink></li>
     </>

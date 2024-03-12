@@ -25,12 +25,13 @@ const Myproject = () => {
     </div>
     <div className="hero h-full  bg-base-200 md:px-16">
   <div className="hero-content flex-col lg:flex-row-reverse">
-    <img src="https://i.ibb.co/DKH5bCV/smiley-female-volunteer-friends-holding-food-donations.jpg" className="max-w-sm rounded-lg shadow-2xl" />
+    <img src="https://i.postimg.cc/8cPRNKXM/image.png" className="max-w-sm rounded-lg shadow-2xl" />
     <div>
-      <h1 className="text-5xl font-bold text-red-600">Donation Campaign</h1>
-      <p className="py-6 text-xl">In this project I explored and used react,tailwind,js</p>
-     <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-8">Github Code link</a></button>
-      <button className='btn bg-red-600 text-black font-bold'><a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app">live link</a></button></div>
+      <h1 className="text-5xl font-bold text-red-600">Tradeswift</h1>
+      <p className="py-6 text-xl">Its an team project .In this project I explored and used next.js,mongodb,tailwind,vercel etc</p>
+     <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/Tradeswift">Github Code client link</a></button>
+      <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/TRADESWIFT-SERVER">Github Code server link</a></button>
+      <button className='btn bg-red-600 text-black font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button></div>
     </div>
   </div>
  </div>

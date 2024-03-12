@@ -29,26 +29,27 @@ const Experiences = () => {
   </div>
 </div>
         <div className="card  bg-base-100 shadow-xl p-10">
-  <figure><img src="https://i.ibb.co/DKH5bCV/smiley-female-volunteer-friends-holding-food-donations.jpg" className="max-w-sm rounded-lg shadow-2xl" /></figure>
+  <figure><img src="https://i.postimg.cc/8cPRNKXM/image.png" className="max-w-sm rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
-    Donation Campaign
+    Tradeswift
     
     </h2>
-    <p>In this project I explored and used react,tailwind,js</p>
-    <p className='font-bold'> Adding  Project features:
+    <p>Its an team projects.</p>
+    <p className='font-bold'>  Features I have added in this whole project are:
 <ul>
-  <li>Form Validation and Error Handling</li>
-  <li>Responsive Design and Mobile Optimization</li>
-  <li>Data Fetching and State Management</li>
-  <li>Authentication and User Management</li>
+  <li>Whole UI design of the project for user .</li>
+  <li>Blog page,Secure Payment Gateway
+</li>
+  <li>User Dashboard and admin dashboard Overview,All users page for admin</li>
 </ul>
    
 </p>
 <p>I explore here responsive design, data fetching,and authentication</p>
     <div className="card-actions justify-end">
-    <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-8">Github Code link</a></button>
-   <button className='btn bg-red-600 text-black font-bold'><a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app">live link</a></button></div>
+    <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/Tradeswift">Github Code client link</a></button>
+      <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/TRADESWIFT-SERVER">Github Code server link</a></button>
+      <button className='btn bg-red-600 text-black font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button></div>
  </div>
     
   </div>
