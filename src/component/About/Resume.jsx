@@ -18,7 +18,7 @@ const Resume = () => {
     // });
 
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1lnTXb5IqgjWDLWwkFP60uzuKvPwiHHwP/view?usp=sharing'; // Replace with your file path
+    link.href = 'https://drive.google.com/file/d/1hkzXLDF2BwlDXjN7kOsPz3CD_xRWBMxN/view?usp=sharing'; // Replace with your file path
     link.download = 'resume.pdf'; // Replace with your desired filename
     document.body.appendChild(link);
     link.click();
