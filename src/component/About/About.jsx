@@ -6,12 +6,12 @@ const About = () => {
         <div>
            <div className="hero min-h-screen bg-base-200">
   <div className="hero-content flex-col lg:flex-col gap-10 justify-between">
-    <img src="https://i.postimg.cc/T2jdccy9/Whats-App-Image-2023-11-30-at-14-38-49-0c2d3860.jpg" className="max-w-sm rounded-3xl shadow-2xl" />
+    <img src="https://i.postimg.cc/T2jdccy9/Whats-App-Image-2023-11-30-at-14-38-49-0c2d3860.jpg" className="md:max-w-sm w-full rounded-3xl shadow-2xl" />
     <div>
     <div>
         <h2 className="text-3xl font-bold">Introduction:</h2>
         <h2 className="text-red-600 text-4xl font-bold">I am Shahina Akter shima</h2>
-        <h2>I am a student.I am also a web developer.I like to explore something different.still I AM learning.I like to be honest cause it gives me happiness</h2>
+        <p>I am a student.I am also a web developer.I like to explore something different.still I AM learning.I like to be honest cause it gives me happiness</p>
     </div>
     <div>
         <h2 className="text-3xl font-bold">Education:</h2>
