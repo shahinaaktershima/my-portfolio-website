@@ -14,7 +14,7 @@ const Myproject = () => {
     <div>
       <h1 className="text-5xl font-bold text-red-600">My job project</h1>
       <p className="py-6 text-xl">In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
-     <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-11-client">Github Code link</a></button>
+     <div className='flex gap-3'> 
       <button className='btn bg-red-600 text-black font-bold'><a href="https://job-space-60860.web.app ">live link</a></button></div>
     </div>
   </div>
@@ -29,8 +29,8 @@ const Myproject = () => {
     <div>
       <h1 className="text-5xl font-bold text-red-600">Tradeswift</h1>
       <p className="py-6 text-xl">Its an team project .In this project I explored and used next.js,mongodb,tailwind,vercel etc</p>
-     <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/Tradeswift">Github Code client link</a></button>
-      <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/TRADESWIFT-SERVER">Github Code server link</a></button>
+     <div className='flex gap-3'> 
+     
       <button className='btn bg-red-600 text-black font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button></div>
     </div>
   </div>
@@ -42,7 +42,7 @@ const Myproject = () => {
     <div>
       <h1 className="text-5xl font-bold text-red-600"> Brand shop project</h1>
       <p className="py-6 text-xl">In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
-     <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-10-client">Github Code link</a></button>
+     <div className='flex gap-3'> 
       <button className='btn bg-red-600 text-black font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button></div>
     </div>
   </div>  

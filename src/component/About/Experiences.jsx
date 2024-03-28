@@ -22,7 +22,7 @@ const Experiences = () => {
 </p>
 <p>For very first time I explore backend here and work with mongodb,express and nodejs</p>
     <div className="card-actions justify-end">
-    <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-11-client">Github Code link</a></button>
+    <div className='flex gap-3'> 
    <button className='btn bg-red-600 text-black font-bold'><a href="https://job-space-60860.web.app ">live link</a></button></div>
  </div>
     
@@ -47,8 +47,7 @@ const Experiences = () => {
 </p>
 <p>I explore here responsive design, data fetching,and authentication</p>
     <div className="card-actions justify-end">
-    <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/Tradeswift">Github Code client link</a></button>
-      <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/magiciansweb/TRADESWIFT-SERVER">Github Code server link</a></button>
+    <div className='flex gap-3'> 
       <button className='btn bg-red-600 text-black font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button></div>
  </div>
     
@@ -74,7 +73,7 @@ const Experiences = () => {
 </p>
 <p>In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
     <div className="card-actions justify-end">
-    <div className='flex gap-3'> <button className='btn text-black font-bold bg-red-600'><a href="https://github.com/shahinaaktershima/assignment-10-client">Github Code link</a></button>
+    <div className='flex gap-3'> 
    <button className='btn bg-red-600 text-black font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button></div>
  </div>
     
