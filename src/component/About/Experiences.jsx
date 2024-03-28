@@ -61,7 +61,7 @@ const Experiences = () => {
     
     </h2>
     <p>In this project I explored and used react,tailwind,js</p>
-    <p className='font-bold'>  features i used in this project are
+    <p className='font-bold'>  features i used in this project are:
 
 <ul>
   <li>react routing</li>
