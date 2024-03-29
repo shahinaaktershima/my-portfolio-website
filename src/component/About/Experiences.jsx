@@ -57,24 +57,26 @@ const Experiences = () => {
   <figure><img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="max-w-sm rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
-    Brand shop project
+  Hostel Management
     
     </h2>
     <p>In this project I explored and used react,tailwind,js</p>
     <p className='font-bold'>  features i used in this project are:
+    </p>
 
 <ul>
-  <li>react routing</li>
-  <li>firebase authentication</li>
-  <li>mongodb database</li>
-  <li>backend handling</li>
+  <li>User can see all meals and and upcoming meals,can see notification of upcoming
+meals</li>
+  <li>User can add new meal and can see details of all meals,</li>
+  <li>User can search meals by title and its fully responsive</li>
+  
 </ul>
    
-</p>
-<p>In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
+
+
     <div className="card-actions justify-end">
     <div className='flex gap-3'> 
-   <button className='btn bg-red-600 text-black font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button></div>
+   <button className='btn bg-red-600 text-black font-bold'><a href="https://final-project-2-e4f67.web.app">live link</a></button></div>
  </div>
     
   </div>

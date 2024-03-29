@@ -40,10 +40,10 @@ const Myproject = () => {
   <div className="hero-content flex-col lg:flex-row-reverse">
     <img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="max-w-sm rounded-lg shadow-2xl" />
     <div>
-      <h1 className="text-5xl font-bold text-red-600"> Brand shop project</h1>
+      <h1 className="text-5xl font-bold text-red-600"> Hostel Management </h1>
       <p className="py-6 text-xl">In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
      <div className='flex gap-3'> 
-      <button className='btn bg-red-600 text-black font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button></div>
+      <button className='btn bg-red-600 text-black font-bold'><a href="https://final-project-2-e4f67.web.app">live link</a></button></div>
     </div>
   </div>  
     </div>
