@@ -10,15 +10,15 @@ const About = () => {
     <div>
     <div>
         <h2 className="text-3xl font-bold">Introduction:</h2>
-        <h2 className="text-red-600 text-4xl font-bold">I am Shahina Akter shima</h2>
+        <h2 className="text-blue-600 text-4xl font-bold">I am Shahina Akter shima</h2>
         <p>I am a student.I am also a web developer.I like to explore something different.still I AM learning.I like to be honest cause it gives me happiness</p>
     </div>
     <div>
         <h2 className="text-3xl font-bold">Education:</h2>
-        <h2>Current: <span className="text-red-600">BSc. Honors </span></h2>
-        <p>Course: <span className="text-red-600">Computer Science and Engineering</span></p>
-           <p>Start-date: <span className="text-red-600" >01-02-2022</span></p>
-           <p>Expected end date: <span className="text-red-600">01-01-2025</span></p>
+        <h2>Current: <span className="text-blue-600">BSc. Honors </span></h2>
+        <p>Course: <span className="text-blue-600">Computer Science and Engineering</span></p>
+           <p>Start-date: <span className="text-blue-600" >01-02-2022</span></p>
+           <p>Expected end date: <span className="text-blue-600">01-01-2025</span></p>
     </div>
     <div>
         <h2 className="text-3xl font-bold"> Skills:</h2>
@@ -48,10 +48,10 @@ const About = () => {
       
         <div className="grid grid-cols-1 md:grid-cols-2  lg:grid-cols-4 my-3 gap-2">
             <div className="px-5 py-8 shadow-md shadow-slate-500">
-           Facebook: <a className="text-red-600 font-bold" href="https://www.facebook.com/jonakijui.jui/">Shahina Akter Shima</a>
+           Facebook: <a className="text-blue-600 font-bold" href="https://www.facebook.com/jonakijui.jui/">Shahina Akter Shima</a>
             </div>
             <div className="px-5 py-8  shadow-md shadow-slate-500">
-            Email:<a href="" className="text-red-600">shima421914@gmail.com</a>
+            Email:<a href="" className="text-blue-600">shima421914@gmail.com</a>
             </div>
                      
                      <div className="p-3  shadow-md shadow-slate-500">
