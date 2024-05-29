@@ -23,7 +23,7 @@ const Banner = () => {
                 </div>
                 <div>
                  <h2 className="md:text-3xl text-xl font-bold my-3 text-blue-600">Best skills on</h2>
-                 <div className="grid grid-cols-2 md:grid-cols-4 my-3 gap-2">
+                 <div className="grid grid-cols-4 my-3 gap-2">
                  <div className="p-3  shadow-md shadow-slate-500"> <FaFigma className="text-3xl text-blue-500"></FaFigma></div>
                  <div className="p-3  shadow-md shadow-slate-500"> <FaHtml5 className="text-3xl text-blue-500"></FaHtml5></div>
                  <div className="p-3  shadow-md shadow-slate-500"> <FaCss3Alt className="text-3xl text-blue-500"></FaCss3Alt></div>
