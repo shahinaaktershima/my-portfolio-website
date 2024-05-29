@@ -2,10 +2,10 @@
 
 const Experiences = () => {
     return (
-        <div className='max-h-[500px] my-10'>
-        <h2 className='text-center my-10  text-3xl font-bold text-blue-700 max-w-3xl mx-auto'> I have created many projects. All of these I choose these Five projects to explain my experiences when created this project</h2>
+        <div className='md:my-10 my-4 px-2'>
+        <h2 className='text-center my-10 text-xl  md:text-2xl font-bold text-blue-700'> I have created many projects. All of these I choose these Five projects to <br /> explain my experiences when created this project</h2>
         <div className='block'>
-        <div className="card  bg-base-100 shadow-xl my-5 p-10">
+        <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/QNJcSdR3/image.png" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
@@ -14,21 +14,27 @@ const Experiences = () => {
     </h2>
     <p>In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
     <p className='font-bold'>I  used many features like:
+        <ul>
         <li>react</li>
         <li>authentication</li>
         <li>backend handling</li>
         <li>dynamic route</li>
+        </ul>
    
 </p>
 <p>For very first time I explore backend here and work with mongodb,express and nodejs</p>
-    <div className="card-actions justify-end">
+    <div className="card-actions ">
     <div className='flex gap-3'> 
-   <button className='btn bg-blue-600 text-black font-bold'><a href="https://job-space-60860.web.app ">live link</a></button></div>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://job-space-60860.web.app ">live link</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-11-client">Client code</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-11-server">Server code</a></button>
+      
+      </div>
  </div>
     
   </div>
 </div>
-        <div className="card  bg-base-100 shadow-xl p-10">
+        <div className="card  bg-base-100 shadow-md ">
   <figure><img src="https://i.postimg.cc/8cPRNKXM/image.png" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
@@ -46,14 +52,18 @@ const Experiences = () => {
    
 </p>
 <p>I explore here responsive design, data fetching,and authentication</p>
-    <div className="card-actions justify-end">
+    <div className="card-actions ">
     <div className='flex gap-3'> 
-      <button className='btn bg-blue-600 text-black font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button></div>
+     
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://tradeswift.vercel.app/">live link</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/magiciansweb/Tradeswift">Client code</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/magiciansweb/TRADESWIFT-SERVER">Server code</a></button>
+      </div>
  </div>
     
   </div>
 </div>
-        <div className="card  bg-base-100 shadow-xl my-5 p-10">
+        <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
@@ -74,14 +84,17 @@ meals</li>
    
 
 
-    <div className="card-actions justify-end">
+    <div className="card-actions ">
     <div className='flex gap-3'> 
-   <button className='btn bg-blue-600 text-black font-bold'><a href="https://final-project-2-e4f67.web.app">live link</a></button></div>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://final-project-2-e4f67.web.app">live link</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-12-client">Client code</a></button>
+      <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-12">Server code</a></button>
+      </div>
  </div>
     
   </div>
 </div>
-<div className="card  bg-base-100 shadow-xl p-10">
+<div className="card  bg-base-100 shadow-md ">
   <figure><img src="https://i.ibb.co/DKH5bCV/smiley-female-volunteer-friends-holding-food-donations.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
@@ -99,14 +112,18 @@ meals</li>
    
 </p>
 <p>I explore here responsive design, data fetching,and authentication</p>
-    <div className="card-actions justify-end">
+    <div className="card-actions ">
     <div className='flex gap-3'> 
-   <button className='btn bg-blue-600 text-black font-bold'><a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app">live link</a></button></div>
+   <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://65147389998c23245ae7ee78--extraordinary-pithivier-5035a7.netlify.app">live link</a></button>
+   
+   <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-8">code link</a></button>
+   
+   </div>
  </div>
     
   </div>
 </div>
-        <div className="card  bg-base-100 shadow-xl my-5 p-10">
+        <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
   <div className="card-body">
     <h2 className="card-title">
@@ -125,9 +142,13 @@ meals</li>
    
 </p>
 <p>In this project I explored and used react,tailwind,firebase,mongodb,express and nodejs</p>
-    <div className="card-actions justify-end">
+    <div className="card-actions ">
     <div className='flex gap-3'>
-   <button className='btn bg-blue-600 text-black font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button></div>
+   <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://brand-shop-21630.web.app">live link</a></button>
+   <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-10-client">client code</a></button>
+   <button className='btn bg-blue-600 text-neutral-100 font-bold'><a href="https://github.com/shahinaaktershima/assignment-10-server">Server code</a></button>
+   
+   </div>
  </div>
     
   </div>
