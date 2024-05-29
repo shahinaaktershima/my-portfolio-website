@@ -14,7 +14,7 @@ const Banner = () => {
             <div className="flex justify-between">
                 <div>
                  <h2 className="md:text-3xl text-xl font-bold my-3 text-blue-600">Find me</h2>
-                 <div className="flex flex-col md:flex-row my-3 gap-2">
+                 <div className="flex flex-row my-3 gap-2">
                      
                     <div className="p-3  shadow-md shadow-slate-500"> <a href="https://www.linkedin.com/in/shahina-akter-shima-5353052a3"><FaLinkedin className="text-3xl text-blue-500"></FaLinkedin></a></div>
                     <div className="p-3  shadow-md shadow-slate-500"> <a href="https://dev.to/shahinaaktershima"><FaDev className="text-3xl text-blue-500"></FaDev></a></div>
