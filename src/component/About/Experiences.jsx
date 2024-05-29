@@ -7,7 +7,7 @@ const Experiences = () => {
         <div className='block'>
         <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/QNJcSdR3/image.png" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
-  <div className="card-body">
+  <div className="">
     <h2 className="card-title">
     My job project
     
@@ -36,7 +36,7 @@ const Experiences = () => {
 </div>
         <div className="card  bg-base-100 shadow-md ">
   <figure><img src="https://i.postimg.cc/8cPRNKXM/image.png" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
-  <div className="card-body">
+  <div className="">
     <h2 className="card-title">
     Tradeswift(TEAM PROJECTS)
     
@@ -65,7 +65,7 @@ const Experiences = () => {
 </div>
         <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
-  <div className="card-body">
+  <div className="">
     <h2 className="card-title">
   Hostel Management
     
@@ -96,7 +96,7 @@ meals</li>
 </div>
 <div className="card  bg-base-100 shadow-md ">
   <figure><img src="https://i.ibb.co/DKH5bCV/smiley-female-volunteer-friends-holding-food-donations.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
-  <div className="card-body">
+  <div className="">
     <h2 className="card-title">
     Donation Campaign
     
@@ -125,7 +125,7 @@ meals</li>
 </div>
         <div className="card  bg-base-100 shadow-md my-5 ">
   <figure><img src="https://i.postimg.cc/x13JJZB4/6g-internet-connection-collage.jpg" className="md:w-[500px] w-full rounded-lg shadow-2xl" /></figure>
-  <div className="card-body">
+  <div className="">
     <h2 className="card-title">
     Brand shop project
     
